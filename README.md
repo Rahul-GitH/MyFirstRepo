@@ -1,3 +1,3 @@
 # MyFirstRepo
 This is my first Repository
-Author - Rahul Banerjee
+Author - Rahul Banerjee (Git)
